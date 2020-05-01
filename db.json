@@ -1,5 +1,7 @@
 {
-  "deliveries": [
+  "currentPage": 1,
+  "totalCount": 100,
+  "items": [
     {
       "id":1,
       "code":"1RP1912873",
